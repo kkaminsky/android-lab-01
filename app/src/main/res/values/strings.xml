@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab01</string>
+    <string name="button_main">Поменять цвет</string>
+</resources>
